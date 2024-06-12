@@ -1,0 +1,17 @@
+- [Arrays](Reference=>https://youtu.be/n60Dn0UsbEk)
+    - [Introduction](Reference=>https://youtu.be/n60Dn0UsbEk)
+    - [Memory management](Reference=>https://youtu.be/n60Dn0UsbEk?t=632)
+    - [Input and Output](Reference=>https://youtu.be/n60Dn0UsbEk?t=1675)
+    - [ArrayList Introduction](Reference=>https://youtu.be/n60Dn0UsbEk?t=4868)
+    - Searching
+        - [Linear Search](Reference=>https://youtu.be/_HRA37X8N_Q)
+        - [Binary Search](Reference=>https://youtu.be/f6UU7V3szVw)
+        - [Modified Binary Search](Reference=>https://youtu.be/f6UU7V3szVw?t=2508)
+        - [Binary Search on 2D Arrays](Reference=>https://www.youtube.com/watch?v=enI_KyGLYPo)
+    - Sorting
+        - [Insertion Sort](Reference=>https://youtu.be/By_5-RRqVeE)
+        - [Selection Sort](Reference=>https://youtu.be/Nd4SCCIHFWk)
+        - [Bubble Sort](Reference=>https://youtu.be/F5MZyqRp_IM)
+        - [Cyclic Sort](Reference=>https://youtu.be/JfinxytTYFQ)
+        - [Count Sort](Reference=>https://youtu.be/FOo820lJV1Y)
+        - [Radix Sort](Reference=>https://youtu.be/mLi6VQDqAOs)Reference=>Reference=>https:
