@@ -1,4 +1,4 @@
-package com.bootcamp.dsa.helper.arrays.binarySearch;
+package com.bootcamp.dsa.helper.arrays.searching.binarySearch;
 
 /*
 Arrays must be sorted

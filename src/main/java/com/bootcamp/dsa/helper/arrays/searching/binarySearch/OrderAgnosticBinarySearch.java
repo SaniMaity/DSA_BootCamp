@@ -1,4 +1,4 @@
-package com.bootcamp.dsa.helper.arrays.binarySearch;
+package com.bootcamp.dsa.helper.arrays.searching.binarySearch;
 
 /*
 You don't know whether the array is sorted in AscendingOr Descending order
