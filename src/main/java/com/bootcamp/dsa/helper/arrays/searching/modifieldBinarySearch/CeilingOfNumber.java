@@ -10,7 +10,7 @@ Ceiling of the target will be 16
 public class CeilingOfNumber {
     public static void main(String[] args) {
         int[] arr = {2,3,5,9,14,16,18};
-        int target = 14;
+        int target = 4;
         System.out.println("Ceiling of target will be at indexNumber: "+getCeilingOfNumber(arr,target));
     }
 
